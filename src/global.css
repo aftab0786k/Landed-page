@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque+24pt+Condensed:wght@600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nohemi:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-bricolage-grotesque-24pt-condensed: "Bricolage Grotesque 24pt Condensed";
+  --font-nohemi: Nohemi;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-67xl: 86px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-gray-100: #1e1e1e;
+  --color-white: #fff;
+  --color-mediumslateblue-100: #6b61ff;
+  --color-violet: #fe9bf3;
+  --color-yellowgreen: #c5ff73;
+  --color-aquamarine: #adffe4;
+  --color-lavender: #edf0ff;
+  --color-lightgray: #d2d2d2;
+
+  /* Border radiuses */
+  --br-5xl: 24px;
+  --br-xs: 12px;
+  --br-81xl: 100px;
+}
